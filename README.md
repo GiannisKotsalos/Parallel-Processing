@@ -11,7 +11,7 @@ To investigate the impact of different parallelization strategies, five implemen
 
 # Detailed Report
 
-The complete project report, including the implementation details, optimization techniques, experimental evaluation, and performance analysis of the Serial, SIMD, OpenMP, MPI, and CUDA implementations, can be found here (ParallelProcessing_Report_FinalVersion) (Language: Greek).
+The complete project report, including the implementation details, optimization techniques, experimental evaluation, and performance analysis of the Serial, SIMD, OpenMP, MPI, and CUDA implementations, can be found here (./ParallelProcessing_Report_FinalVersion) (Language: Greek).
 
 ---
 
