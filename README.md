@@ -1,7 +1,8 @@
 # Parallel Preprocessing of Large-Scale Data
-Introduction
-The aim of this project is to design, implement, and evaluate a high-performance preprocessing system for large-scale numerical datasets using multiple parallel programming paradigms. The application performs feature normalization through StandardScaler and MinMaxScaler, supporting datasets that exceed the available main memory by employing out-of-core, block-based processing. The implementation processes raw binary datasets, computes column-wise statistics, and produces normalized output while maintaining scalability and correctness. The project requirements are based on the Parallel Processing course assignment at the Department of Computer Engineering and Informatics, University of Patras.
+# Introduction
+The aim of this project is to design, implement, and evaluate a high-performance preprocessing system for large-scale numerical datasets using multiple parallel programming paradigms. The application performs feature normalization through StandardScaler and MinMaxScaler, supporting datasets that exceed the available main memory by employing out-of-core, block-based processing. The implementation processes raw binary datasets, computes column-wise statistics, and produces normalized output while maintaining scalability and correctness. The project requirements are based on the Parallel Processing course assignment .
 To investigate the impact of different parallelization strategies, five implementations are provided: a serial reference implementation, a SIMD implementation using AVX2 intrinsics, a multithreaded OpenMP implementation, a distributed MPI implementation, and a GPU-accelerated CUDA implementation. The project also includes automated dataset generation, correctness verification against a NumPy reference implementation, and benchmarking scripts for evaluating scalability, speedup, and overall performance across different hardware architectures.
+
 
 **Course:** Parallel Processing — Spring Semester 2025–2026
 **Department:** Department of Computer Engineering and Informatics, University of Patras
