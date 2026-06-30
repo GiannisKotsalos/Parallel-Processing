@@ -6,8 +6,12 @@ To investigate the impact of different parallelization strategies, five implemen
 
 **Course:** Parallel Processing — Spring Semester 2025–2026
 **Department:** Department of Computer Engineering and Informatics, University of Patras
-**Team:** Spyridon Mantadakis (1100613) · Ioannis Kotsalos (1100603)
+**Team:** Spyridon Mantadakis  · Ioannis Kotsalos 
 
+
+# Detailed Report
+
+The complete project report, including the implementation details, optimization techniques, experimental evaluation, and performance analysis of the Serial, SIMD, OpenMP, MPI, and CUDA implementations, can be found here (Language: Greek).
 ---
 
 # Project Contents
